@@ -1,1 +1,3 @@
-# alx-system_engineering-devops
+#!/bin/bash
+First script prints pwd
+
