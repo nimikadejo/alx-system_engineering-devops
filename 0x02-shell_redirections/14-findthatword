@@ -1,0 +1,2 @@
+#!/bin/bash
+look root /etc/passwd
