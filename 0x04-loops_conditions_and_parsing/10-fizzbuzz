@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# This script is displaying fizz for multiples of 3,
+# buzz for multiples of 5, fizzbuzz for both
+# from 1-100
+
+ 

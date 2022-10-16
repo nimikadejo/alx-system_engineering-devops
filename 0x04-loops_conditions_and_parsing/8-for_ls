@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This script is displaying all contents in the cd
+# in list format with no hidden files.
+
+CMD=$(ls -1)
+for f in $CMD; do
+	echo $f | cut -d'-' -f2
+done	
