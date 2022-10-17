@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# bash script that kills the process in "4-to*"
+# DO NOT USE kill
+
+pkill -f "4-to_infinity_and_beyond"

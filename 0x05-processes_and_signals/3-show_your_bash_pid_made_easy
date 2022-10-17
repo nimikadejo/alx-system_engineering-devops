@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Bash script displaying PID with process name
+# DO NOT USE ps
+
+pgrep -l "bash"

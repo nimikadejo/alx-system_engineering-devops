@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script displaying a list of processes for all users
+
+ps axuf
