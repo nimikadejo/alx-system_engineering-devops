@@ -4,5 +4,5 @@
 
 CMD=$(ls -1)
 for f in $CMD; do
-	echo $f | cut -d'-' -f2
+	echo "$f" | cut -d'-' -f2
 done	
