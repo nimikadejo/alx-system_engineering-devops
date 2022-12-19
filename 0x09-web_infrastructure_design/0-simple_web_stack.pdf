@@ -2,6 +2,7 @@ Task 0
 
 -Infrastructure Specifics
 What is a server?
+A server can be virtual or pgysical.  caceots and responds to reqeusts nade over the network. It is basically 
 
 What is the role of the domain name?
 
