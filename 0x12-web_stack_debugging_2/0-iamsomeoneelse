@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # Run the whoami command and changes user
 useradd "$1"
 sudo -u "$1" whoami
